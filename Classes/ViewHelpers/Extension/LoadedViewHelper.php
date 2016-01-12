@@ -1,5 +1,5 @@
 <?php
-namespace TYPO3\JhMagnificpopup\ViewHelpers\Extension;
+namespace Heilmann\JhMagnificpopup\ViewHelpers\Extension;
 
 /***************************************************************
  *  Copyright notice

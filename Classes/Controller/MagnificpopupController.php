@@ -1,5 +1,5 @@
 <?php
-namespace TYPO3\JhMagnificpopup\Controller;
+namespace Heilmann\JhMagnificpopup\Controller;
 
 use TYPO3\CMS\Core\Messaging\AbstractMessage;
 use TYPO3\CMS\Core\Utility\GeneralUtility;
